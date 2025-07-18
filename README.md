@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Password Manager
 
 Güvenli ve kullanıcı dostu bir şifre yönetici uygulaması. Tarayıcılardan (Chrome, Firefox, Edge) şifreleri otomatik olarak içe aktarabilir ve güvenli bir şekilde saklayabilir.
@@ -264,3 +265,7 @@ The application uses an SQLite database with the following structure:
 - Password encryption uses AES-256 with OpenSSL
 - User passwords are hashed using SHA-256 with a random salt
 - CSV import expects columns: name, url, username, password, note (header required) 
+=======
+# PasswordManager
+Basic, Secure and user-friendly password manager.
+>>>>>>> 0c1bc2e57f30131035034c9d454c347c1e1fd2e1
