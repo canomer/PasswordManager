@@ -172,9 +172,9 @@ PasswordManager/
 │   ├── passworddialog.h/cpp    # Dialog for adding/editing passwords
 │   └── resources/              # Application resources
 │       └── resources.qrc       # Qt resource file
-├── build/                      # Build directory (created during build)
-│   ├── Debug/                  # Debug build output
-│   └── Release/                # Release build output
+└── build/                      # Build directory (created during build)
+    ├── Debug/                  # Debug build output
+    └── Release/                # Release build output
 ```
 
 ## Key Files and Responsibilities
