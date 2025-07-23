@@ -1,7 +1,3 @@
-# deneme
-## deneme
-### deneme
-
 # Password Manager
 
 A secure and user-friendly password manager application. It can automatically import passwords from browsers as CSV files, store and find them securely.
